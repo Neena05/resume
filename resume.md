@@ -2,67 +2,46 @@
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
-margin-bottom: 2cm
-title: Jimmy Hendricks
+margin-bottom: 0cm
+title: Neena Varanasi
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords: 
-  - 'php' 
-  - 'mysql' 
-  - 'linux'
+  - 'entry-level' 
+  - 'high-school' 
+  - 'java'
 author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way.  
+###### [Murphy, TX] . [neena.varanasi@gmail.com] . [469 758 8580]
+Motivated and compassionate student with excellent organizational and interpersonal skills. Seeking to apply my collaborative skills to the intern position at your company. Possess proven communication skills and willingness to learn and adapt based on needs of the position.
+
+## Education
+- IB (International Baccalaureate) at Plano East Senior High School, Plano, Texas
+- Class of 2023
+- GPA: insert GPA**
+- Rank: insert rank**
 
 ## Skills
-``` programming```
-``` devops ```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-``` WordPress```
+**Programming**: Java, Python  
+**Version Control**: Git/Github   
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript  
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick  
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian  
-**DevOps**: Ansible, Chef, Kubernetes, etc.  
+## Relevant Coursework
+- AP Computer Science Principles (AP Exam Score- 5)
+- IB Computer Science SL 
+- IB Math Analysis HL (Calculus, Statistics, Probability, and more)
+- IB Physics HL
+- AP Psychology
+- IB English III HL
+- IB Spanish SL
+- Certification in AI Intensive from Inspirit AI
 
-## Experience
-### CEO and Founder, Pied Piper 
-start-date-end-date, City, State and remote
+## Volunteer Experience
+- (August 2021- Present) CAS Program: Complete 1-2 hours a week of Creativity, Activity, or Service as a part of the International Baccalaureate program. Key experiences included working as a painter on a mural promoting internationalism and volunteering for the nonprofit Trusted World. 
 
-- Things you did/do here 
-- More things that you do here. 
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
-
-### Senior Software Architect, Hooli
-2010-2016, San Francisco, CA
-
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at? 
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
-
-## Awards & Recognition 
-  * Winner TechCrunch Disrupt 2001
-  * People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
-
-## Education 
-
-### Masters in BS, Example University 
-
-- 4.0 GPA 
-- Deans List
-- Member of xyz club, etc. 
-- I didn't really go to college so I don't know what you would put here. 
+## Extracurriculars
+- (August 2021- Present) Computer Science Club: Solve problem sessions once a week in preperation for contests
+- (April 2021- Present) CuriouSTEM Computer Science Writer: Write and edit 2 articles a month educating underprivileged kids on computer science 
+- (August 2021- Present) Girls Who Code: Complete various projects like websites for school organizations
+- (January 2013- Present) Hindustani Classical Singing: Recieved outstanding rating on level 1 and level 2 certifications
+-  (August 2019- Present) IBSSA Event Management Officer: Organize monthly meetings, ocassional events, and coordinate with Booster Club for finances
+- (May 2021- Present) National Honors Society: Satisfy service, character, and academic requirements
+- (August 2020- Present) TILE (Talks on Innovation, Leadership, and Entrepreneurship) Member- Participate in panels with leaders in industry
