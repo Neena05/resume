@@ -17,8 +17,9 @@ Motivated and compassionate student with excellent organizational and interperso
 ## Education
 - IB (International Baccalaureate) at Plano East Senior High School, Plano, Texas
 - Class of 2023
-- GPA: insert GPA**
-- Rank: insert rank**
+- Cumulative GPA: 4.5075
+- Ranking GPA: 4.5708
+- Rank: 50/1406
 
 ## Skills
 **Programming**: Java, Python  
