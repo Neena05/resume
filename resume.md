@@ -46,3 +46,8 @@ Motivated and compassionate student with excellent organizational and interperso
 -  (August 2019- Present) IBSSA Event Management Officer: Organize monthly meetings, ocassional events, and coordinate with Booster Club for finances
 - (May 2021- Present) National Honors Society: Satisfy service, character, and academic requirements
 - (August 2020- Present) TILE (Talks on Innovation, Leadership, and Entrepreneurship) Member- Participate in panels with leaders in industry
+
+## Awards
+- AP Scholar with Honors- Recieve an average score of at least 3.25 on all AP Exams taken, and scores of 3 or higher on four or more of these exams.
+- National Junior Society Outstanding Achievement Award- Outstanding achievement in areas of scholarship, service, leadership, character, and citizenship
+- NJHS Gold Award- 100+ hours in service
